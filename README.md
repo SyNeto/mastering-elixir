@@ -5,7 +5,7 @@ and resources.
 
 ## To-Do - Data Types (25-Jul-2019)
 
-- [ ] Read [operators reference](https://hexdocs.pm/elixir/operators.html)
+- [x] Read [operators reference](https://hexdocs.pm/elixir/operators.html)  
 - [ ] Read [List reference](https://hexdocs.pm/elixir/List.html)
 - [ ] Read [Map refernce](https://hexdocs.pm/elixir/Map.html)
 - [ ] Read [Supported sigils](http://elixir-lang.github.io/getting-started/sigils.html)
