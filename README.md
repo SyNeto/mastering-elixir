@@ -6,6 +6,8 @@ and resources.
 ## To-Do - Data Types (25-Jul-2019)
 
 - [x] Read [operators reference](https://hexdocs.pm/elixir/operators.html)  
+    * [ ] Create example for custom operators.
+    * [ ] Create example for redifining existing operators.
 - [ ] Read [List reference](https://hexdocs.pm/elixir/List.html)
 - [ ] Read [Map refernce](https://hexdocs.pm/elixir/Map.html)
 - [ ] Read [Supported sigils](http://elixir-lang.github.io/getting-started/sigils.html)
