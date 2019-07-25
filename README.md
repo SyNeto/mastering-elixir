@@ -3,7 +3,7 @@
 This repo follows my effort to Mastering elixir, I'll update this with examples
 and resources.
 
-## To-Do (25-Jul-2019)
+## To-Do - Data Types (25-Jul-2019)
 
 - [ ] Read [operators reference](https://hexdocs.pm/elixir/operators.html)
 - [ ] Read [List reference](https://hexdocs.pm/elixir/List.html)
