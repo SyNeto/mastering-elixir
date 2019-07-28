@@ -9,7 +9,7 @@ and resources.
     * [x] Create example for custom operators.
     * [x] Create example for redifining existing operators.
 - [x] Read [List reference](https://hexdocs.pm/elixir/List.html)
-- [ ] Read [Map refernce](https://hexdocs.pm/elixir/Map.html)
+- [x] Read [Map refernce](https://hexdocs.pm/elixir/Map.html)
 - [ ] Read [Supported sigils](http://elixir-lang.github.io/getting-started/sigils.html)
 - [ ] Read [Keyword list reference](https://hexdocs.pm/elixir/Keyword.html)
 - [ ] Read [MapSet reference](https://hexdocs.pm/elixir/MapSet.html)
