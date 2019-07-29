@@ -13,3 +13,12 @@ and resources.
 - [x] Read [Supported sigils](http://elixir-lang.github.io/getting-started/sigils.html)
 - [x] Read [Keyword list reference](https://hexdocs.pm/elixir/Keyword.html)
 - [x] Read [MapSet reference](https://hexdocs.pm/elixir/MapSet.html)
+
+## To-Do [Function Reference](refences/function_reference.md) (29-Jul-2019)
+
+- [x] Anonymous Functions
+- [x] Anonymous Functions with multiple implementations
+- [x] Accessing variables from outer scope
+- [x] The capture operator "&"
+- [x] Modules and Named Functions
+- [ ] How to work with elixir code in files 
