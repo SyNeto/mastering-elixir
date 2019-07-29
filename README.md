@@ -14,7 +14,7 @@ and resources.
 - [x] Read [Keyword list reference](https://hexdocs.pm/elixir/Keyword.html)
 - [x] Read [MapSet reference](https://hexdocs.pm/elixir/MapSet.html)
 
-## To-Do [Function Reference](refences/function_reference.md) (29-Jul-2019)
+## To-Do [Function Reference](references/function_reference.md) (29-Jul-2019)
 
 - [x] Anonymous Functions
 - [x] Anonymous Functions with multiple implementations
